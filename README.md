@@ -97,9 +97,7 @@ Unity, GitHub
 - URL → View → Template 흐름.  
 - `runserver`로 로컬 서버 실행. 
 - 간단한 텍스트 출력과 투표 가능 웹 구현.
-![lotto app screenshot](<img width="957" height="1077" alt="스크린샷 2025-11-07 212008" src="https://github.com/user-attachments/assets/f29104c4-bbe7-4a58-b936-7191ebcaef33" />
-)
-
+![lotto app screenshot](https://github.com/sihun0510/my-resume/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202025-11-07%20212008.png?raw=true)
 
 **배운 점**  
 - 백엔드 동작 방식이 막연했는데, 직접 서버를 띄워보니까 웹 작동방식을 이해할 수 있었음.
